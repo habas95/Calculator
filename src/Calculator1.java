@@ -23,6 +23,7 @@ public class Calculator1 {
         }
         catch (InputMismatchException e) {
             System.out.println("Sorry, i asked you to enter a number not letters");
+            System.out.println("hahahahha");
         }
     }
 
